@@ -9,7 +9,7 @@ namespace Project_7
     class Program
     {
         static void Main(string[] args)
-        {// PA-TA-TAS
+        {// PA-TA-TAS-FRI-TAS
         }
     }
 }
