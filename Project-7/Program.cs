@@ -9,7 +9,7 @@ namespace Project_7
     class Program
     {
         static void Main(string[] args)
-        {// qué son patatatas????
+        {// PA-TA-TAS
         }
     }
 }
