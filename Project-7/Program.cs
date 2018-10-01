@@ -10,8 +10,13 @@ namespace Project_7
     {
         static void Main(string[] args)
         {//qwerty
-          //Prueba BNM
-          // pepe is here
+          //otros cambios
+          //laksjdlkasjd
+          //owiefjowief
+          // pepe is here}
+          void funcion(){
+            //no hace nada
+          }
         }
     }
 }
