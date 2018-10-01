@@ -10,7 +10,7 @@ namespace Project_7
     {
         static void Main(string[] args)
         {//qwerty
-
+          //cambios incoming
           //otros cambios
           // pepe is here}
           void funcion(){
@@ -19,7 +19,6 @@ namespace Project_7
           //radadadadad
           //hajsdhalñsjdña
           //kansdnadf
-
         }
     }
 }
